@@ -1,2 +1,2 @@
-# C-20 
-On collision of two rectangles the colour changes to red.
+# p5.play-boilerplate
+Boiler plate for p5.play
